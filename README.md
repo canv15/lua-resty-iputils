@@ -1,4 +1,6 @@
 # lua-resty-iputils
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Flua-resty-iputils.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Flua-resty-iputils?ref=badge_shield)
+
 
 Collection of utility functions for working with IP addresses.
 
@@ -78,3 +80,7 @@ Returns `nil` and an error message with an invalid IP
 
 ## TODO
  * IPv6 support - Alternative library supporting ipv6 - [lua-libcidr-ffi](https://github.com/GUI/lua-libcidr-ffi)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Flua-resty-iputils.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Flua-resty-iputils?ref=badge_large)
